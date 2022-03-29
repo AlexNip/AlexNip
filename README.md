@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlexNip
-- 👀 I’m interested in syeme engineering and risk management
+- 👀 I’m interested in system engineering and risk management
 - 🌱 I’m currently learning becasue no one can know everything
 - 💞️ I’m looking to collaborate on NIPRO Projects
 - 📫 How to reach me ...
